@@ -8,8 +8,9 @@
 - Study early events in neurodegenerative diseases, particularly axon and synapse dysfunction and loss
 - Teach NSCS 440, Mechanisms of Neural Development, in spring semesters
 
-- Bulleted
-- List
+
+
+###change things below here TBD
 
 1. Numbered
 2. List
