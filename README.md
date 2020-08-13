@@ -1,14 +1,12 @@
-## Welcome to Martha Bhattacharya's Lab Website!
+# Martha R.C. Bhattacharya, Ph.D.
 
-I'll be posting my CV and related information here.
 
-### Markdown
 
-- I am an Assistant Professor at the University of Arizona. My lab started in January 2017.
+## Summary and Highlights
 
-# Header 1
-## Header 2
-### Header 3
+- Assistant Professor at the University of Arizona. My lab started in January 2017.
+- Study early events in neurodegenerative diseases, particularly axon and synapse dysfunction and loss
+- Teach NSCS 440, Mechanisms of Neural Development, in spring semesters
 
 - Bulleted
 - List
