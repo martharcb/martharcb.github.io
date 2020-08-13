@@ -1,15 +1,10 @@
 ## Welcome to Martha Bhattacharya's Lab Website!
 
-You can use the [editor on GitHub](https://github.com/martharcb/martharcb.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'll be posting my CV and related information here.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+- I am an Assistant Professor at the University of Arizona. My lab started in January 2017.
 
 # Header 1
 ## Header 2
